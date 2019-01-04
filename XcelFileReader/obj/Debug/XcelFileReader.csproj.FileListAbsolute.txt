@@ -1,0 +1,7 @@
+c:\users\md40007275\documents\visual studio 2017\Projects\XcelFileReader\XcelFileReader\bin\Debug\XcelFileReader.exe.config
+c:\users\md40007275\documents\visual studio 2017\Projects\XcelFileReader\XcelFileReader\bin\Debug\XcelFileReader.exe
+c:\users\md40007275\documents\visual studio 2017\Projects\XcelFileReader\XcelFileReader\bin\Debug\XcelFileReader.pdb
+c:\users\md40007275\documents\visual studio 2017\Projects\XcelFileReader\XcelFileReader\obj\Debug\XcelFileReader.csprojResolveAssemblyReference.cache
+c:\users\md40007275\documents\visual studio 2017\Projects\XcelFileReader\XcelFileReader\obj\Debug\XcelFileReader.csproj.ResolveComReference.cache
+c:\users\md40007275\documents\visual studio 2017\Projects\XcelFileReader\XcelFileReader\obj\Debug\XcelFileReader.exe
+c:\users\md40007275\documents\visual studio 2017\Projects\XcelFileReader\XcelFileReader\obj\Debug\XcelFileReader.pdb
